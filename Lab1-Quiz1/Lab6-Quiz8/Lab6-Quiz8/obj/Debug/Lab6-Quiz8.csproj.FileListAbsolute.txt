@@ -1,0 +1,3 @@
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab6-Quiz8\Lab6-Quiz8\obj\Debug\Lab6-Quiz8.csproj.AssemblyReference.cache
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab6-Quiz8\Lab6-Quiz8\obj\Debug\Lab6-Quiz8.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab6-Quiz8\Lab6-Quiz8\obj\Debug\Lab6-Quiz8.csproj.CoreCompileInputs.cache
