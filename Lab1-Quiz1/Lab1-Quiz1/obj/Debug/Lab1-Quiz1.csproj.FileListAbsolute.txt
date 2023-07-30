@@ -1,0 +1,8 @@
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\bin\Debug\Lab1-Quiz1.exe.config
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\bin\Debug\Lab1-Quiz1.exe
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\bin\Debug\Lab1-Quiz1.pdb
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\obj\Debug\Lab1-Quiz1.csproj.AssemblyReference.cache
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\obj\Debug\Lab1-Quiz1.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\obj\Debug\Lab1-Quiz1.csproj.CoreCompileInputs.cache
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\obj\Debug\Lab1-Quiz1.exe
+D:\NSBM\Y1S2\C#\code\object oriented 1\Lab1-Quiz1\Lab1-Quiz1\obj\Debug\Lab1-Quiz1.pdb
